@@ -1,0 +1,12 @@
+D:\31-12-014\OneToManyApp\OneToManyApp\bin\Debug\OneToManyApp.exe.config
+D:\31-12-014\OneToManyApp\OneToManyApp\obj\Debug\OneToManyApp.csprojResolveAssemblyReference.cache
+D:\31-12-014\OneToManyApp\OneToManyApp\obj\Debug\OneToManyApp.Properties.Resources.resources
+D:\31-12-014\OneToManyApp\OneToManyApp\obj\Debug\OneToManyApp.csproj.GenerateResource.Cache
+D:\31-12-014\OneToManyApp\OneToManyApp\bin\Debug\OneToManyApp.exe
+D:\31-12-014\OneToManyApp\OneToManyApp\bin\Debug\OneToManyApp.pdb
+D:\31-12-014\OneToManyApp\OneToManyApp\obj\Debug\OneToManyApp.exe
+D:\31-12-014\OneToManyApp\OneToManyApp\obj\Debug\OneToManyApp.pdb
+D:\31-12-014\OneToManyApp\OneToManyApp\obj\Debug\OneToManyApp.StudentEntryUI.resources
+D:\ASP CODE\31-Dec-2014\OneToManyApp\OneToManyApp\bin\Debug\OneToManyApp.exe.config
+D:\ASP CODE\31-Dec-2014\OneToManyApp\OneToManyApp\obj\Debug\OneToManyApp.exe
+D:\ASP CODE\31-Dec-2014\OneToManyApp\OneToManyApp\obj\Debug\OneToManyApp.pdb
